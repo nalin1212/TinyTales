@@ -1,4 +1,4 @@
-import setuptools
+import  setuptools 
 
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "TinyTales"
 AUTHOR_USER_NAME = "nalin1212"
-SRC_REPO = "TinyTales"
+SRC_REPO = "Tinytales"
 AUTHOR_EMAIL = "nalin4835@gmail.com"
 
 
